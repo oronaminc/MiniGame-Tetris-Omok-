@@ -18,11 +18,11 @@ Term 2
 2. Game selector Screen
 3. Tetris Game
 3-1. Showing Operation Method
-:3-2. Tetris Marix Control
-  3-3. Showing Next Shape
-  3-4. Showing Present Score, Best Socre, Level, Left Goal
-  3-5. Showing Input Key
-  3-6. Random Color Brick
+> - 3-2. Tetris Marix Control
+> - 3-3. Showing Next Shape
+> - 3-4. Showing Present Score, Best Socre, Level, Left Goal
+> - 3-5. Showing Input Key
+> - 3-6. Random Color Brick
 4. Omok Game
   4-1. Showing Operation Method
   4-2. Showing User turn
