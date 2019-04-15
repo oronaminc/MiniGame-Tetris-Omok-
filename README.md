@@ -14,7 +14,7 @@
 2. Game selector Screen
 3. Tetris Game
 3-1. Showing Operation Method
-\3-2. Tetris Marix Control
+:3-2. Tetris Marix Control
   3-3. Showing Next Shape
   3-4. Showing Present Score, Best Socre, Level, Left Goal
   3-5. Showing Input Key
